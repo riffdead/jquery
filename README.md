@@ -1,0 +1,2 @@
+# jquery
+Genérico jquery
